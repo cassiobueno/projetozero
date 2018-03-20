@@ -1,0 +1,22 @@
+{
+    "name": "cassio.bueno/projetozero",
+    "description": "projeto teste de estudo",
+    "type": "project",
+    "require": {
+        "codeigniter/framework": "*",
+        "doctrine/orm": "^2.5",
+        "vlucas/phpdotenv": "^2.5@dev"
+    },
+    "require-dev":{
+	"phpunit/phpunit": "^5",
+        "symfony/var-dumper": "3.4.x-dev"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Cassio Bueno",
+            "email": "cassio.bueno@rentcars.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
